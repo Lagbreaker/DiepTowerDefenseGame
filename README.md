@@ -1,2 +1,2 @@
-# DiepTD
-A repository for Diep.io Tower Defense, a tower defense (or real time strategy) game based on Diep.io, a 2D shooter.
+# Diep.io Tower Defense Game
+A simple game I made in my spare time, based on the game diep.io
